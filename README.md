@@ -31,3 +31,5 @@ i zaczął mruczeć pod nosem, że git to jest król systemów kontroli wersji j
 
 Tak go za tego tego pusha z forcem znienawidził.
 
+Trochę już czasu temu inny kolega Stefan namówił ojca na wzięcie udziału w projekcie polegającym na commitowaniu przynajmniej raz dziennie. Jebany tak się w to wkręcił, że Stefan już dawno poległ na dwusetnym dniu, a ten już ma ich ponad 600 i najwyraźniej nie zamierza dać za wygraną. Jak nie ma co to commituje wszystko... Nie wspominałem o tym, ale zaczął prowadzić bloga z postami w formie commitów, commituje każde swoje wyjście z piwnicy pisząc gdzie wyszedł, po co i o której godzinie, ma repo z listą obejrzanych filmów i seriali, repo z listą przeczytanych tygodników o gicie, a na awaryjne dni zrobił sobie repo z kodem wymagającym dużej ilości jakichś głupich poprawek typu brakujące średniki. I jak nie ma co commitnąć to kurwa dodaje średnik do linijki 1337 i odhaczona commit na ten dzień mrucząc pod nosem, że musi jeszcze tylko napisać jakiś dobry commit message.
+
